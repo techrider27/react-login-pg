@@ -1,11 +1,11 @@
-import React from "react";
+// import React from "react";
 import pic from "../src/assets/mob-icon.png";
 import picture from "../src/assets/fb.png";
 
 
 const Header = () => {
   return (
-    <React.Fragment>
+    <>
       <header className="bg-[#fffbe2] py-2 lg:hidden">
         <div className="flex justify-start items-center">
           <div className="ml-4 mr-2">
@@ -19,7 +19,7 @@ const Header = () => {
         </div>
       </header>
       <img src={picture} class="py-2 w-28 d-block mx-auto lg:hidden" alt="" />
-    </React.Fragment>
+    </>
   );
 };
 
