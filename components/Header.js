@@ -1,4 +1,3 @@
-// import React from "react";
 import pic from "../src/assets/mob-icon.png";
 import picture from "../src/assets/fb.png";
 
