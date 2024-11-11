@@ -12,7 +12,7 @@ const Header = () => {
           </div>
           <div className="">
             <p className="text-[#3b5998] text-sm font-normal">
-              Get Facebook for Android and browse faster.
+              Get GSbook for Android and browse faster.
             </p>
           </div>
         </div>
