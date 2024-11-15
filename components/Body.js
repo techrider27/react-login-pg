@@ -21,7 +21,7 @@ const Body = () => {
                     className="w-full p-4 rounded-md border-[1px] focus:outline-none focus:border-sky-400 focus:shadow-[0px_0px_3px_0px] focus:shadow-sky-400 border-slate-300 placeholder:text-[#a59f9f] font-medium text-sm pl-3"
                     name="email"
                     id=""
-                    placeholder="Email address or phone numcls
+                    placeholder="Email address or phone number
                     ber"
                   />
                   <input

@@ -45,7 +45,7 @@ const Footer = () => {
           </ul>
         </div>
         <p className="text-[#808080] text-center mt-[10px] text-xs">
-          Meta <FontAwesomeIcon icon={faCopyright} className="font-thin" />
+          GS <FontAwesomeIcon icon={faCopyright} className="font-thin" />
           {moment().format("yyyy")}
         </p>
       </div>
@@ -106,7 +106,7 @@ const Footer = () => {
               <a className="hover:underline">Messenger</a>
             </li>
             <li className="p-2 text-[#8a8d91] text-xs">
-              <a className="hover:underline">Facebook Lite</a>
+              <a className="hover:underline">GS Book Lite</a>
             </li>
             <li className="p-2 text-[#8a8d91] text-xs">
               <a className="hover:underline">Watch</a>
@@ -121,7 +121,7 @@ const Footer = () => {
               <a className="hover:underline">Marketplace</a>
             </li>
             <li className="p-2 text-[#8a8d91] text-xs">
-              <a className="hover:underline">Meta Pay</a>
+              <a className="hover:underline">GS Pay</a>
             </li>
             <li className="p-2 text-[#8a8d91] text-xs">
               <a className="hover:underline">Oculus</a>
@@ -195,7 +195,7 @@ const Footer = () => {
         </div>
         <div className="flex justify-center mt-4 lg:w-[18%] xl:w-5/12 ml-2">
           <p className="text-[#808080] text-center mt-[10px] text-xs">
-            Meta
+            GS
             <FontAwesomeIcon icon={faCopyright} className="mx-1" />
             {moment().format("yyyy")}
           </p>
