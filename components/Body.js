@@ -9,7 +9,7 @@ const Body = () => {
           <div className="w-[36rem]">
             <img src={picture} className="h-[106px] -ml-6 -mb-3" alt="" />
             <p className="text-3xl">
-              Facebook helps you connect and share with the people in your life.
+              GSbook helps you connect and share with the people in your life.
             </p>
           </div>
           <div className="flex flex-col">
@@ -21,7 +21,8 @@ const Body = () => {
                     className="w-full p-4 rounded-md border-[1px] focus:outline-none focus:border-sky-400 focus:shadow-[0px_0px_3px_0px] focus:shadow-sky-400 border-slate-300 placeholder:text-[#a59f9f] font-medium text-sm pl-3"
                     name="email"
                     id=""
-                    placeholder="Email address or phone number"
+                    placeholder="Email address or phone number
+                    ber"
                   />
                   <input
                     type="password"
